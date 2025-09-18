@@ -4,12 +4,4 @@ pandas
 numpy
 matplotlib
 prophet
-pathlib
-
-
-
-
-
-
-
-
+openpyxl
