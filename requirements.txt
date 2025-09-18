@@ -1,0 +1,15 @@
+notebook
+ipywidgets
+pandas
+numpy
+matplotlib
+prophet
+pathlib
+
+
+
+
+
+
+
+
